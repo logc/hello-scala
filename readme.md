@@ -11,3 +11,6 @@ You can read more on the [docs](docs) section or continue here for API
 documentation.
 
 Tested with Scala 3.3.1, sbt 1.9.6 and Java 19.0.2
+
+You can see the rendered documentation
+[here](https://logc.github.io/hello-scala/).
