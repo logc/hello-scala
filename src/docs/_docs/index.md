@@ -5,7 +5,7 @@
 This documentation is generated purely with features from the [built-in
 Scaladoc](https://docs.scala-lang.org/scala3/guides/scaladoc/index.html),
 without any external dependencies. The Scala version has to be 3, though. It
-does not work with the Scaladoc shuipped with 2.
+does not work with the Scaladoc shipped with 2.
 
 The contents of README are added to the static documentation's index page [by
 setting a
